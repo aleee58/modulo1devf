@@ -1,0 +1,22 @@
+
+
+
+header {
+    text-align: center;
+    padding-block: 5px;
+    color: red;
+}
+
+main {
+    display: grid;
+    background-color:bisque;
+}
+
+.contenedor {
+    justify-content: space-around;
+    columns: 4 240px;
+    
+    border-radius: black;
+    grid-gap: 3em;
+   
+}
